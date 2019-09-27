@@ -1,0 +1,7 @@
+---flow of the script:-
+=======================
+-->>where does it start and where does it end
+-->>what are the servers involved in the flow
+-->>what are the endpoints it reaches at end of the flow
+-->>location of the scripts for the existing environment
+-->> 
